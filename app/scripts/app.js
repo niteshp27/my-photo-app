@@ -17,7 +17,6 @@
                         ContentType: "image/jpeg",
                         base64: data,
                     }).then(function (data) {
-                        alert(JSON.stringify(data.result));
                         loadPhotos();
                     });
                 };
