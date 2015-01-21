@@ -1,7 +1,7 @@
 (function () {
     document.addEventListener("deviceready", function () {
         
-        var everliveApiKey = 'YOUR_API_KEY';
+        var everliveApiKey = 'VMfgz96THhzALqWF';
         var everliveScheme = 'https';
 
         var everlive = new Everlive({
